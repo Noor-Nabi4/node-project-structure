@@ -1,0 +1,7 @@
+{
+    "ext": ".ts",
+    "inore": [
+        "dist",
+        "node_modules"
+    ]
+}
